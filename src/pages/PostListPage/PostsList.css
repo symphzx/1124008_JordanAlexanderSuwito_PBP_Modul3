@@ -1,0 +1,22 @@
+.postHeader, .postBody {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.postBody {
+    align-items: end;
+}
+
+/* 
+.post{
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 12px 24px;
+    margin-bottom: 24px;
+    text-align: left;
+} */
+
+.date {
+    text-align: right;
+}

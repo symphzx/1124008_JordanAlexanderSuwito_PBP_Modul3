@@ -1,0 +1,1 @@
+export type AsyncDataState = 'pending' | 'loading' | 'fullfilled' | 'error';
